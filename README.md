@@ -2,7 +2,7 @@
 - 👀 I’m interested in sing 
 - 🌱 I’m currently learning English
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me 371482728@qq.com
 
 <!---
 Jonathan1102/Jonathan1102 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
